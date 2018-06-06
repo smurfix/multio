@@ -1,3 +1,9 @@
+multio (0.2.3-2) smurf; urgency=medium
+
+  * ignored nonsense
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Wed, 06 Jun 2018 23:26:01 +0200
+
 multio (0.2.3-1) smurf; urgency=low
 
   * source package automatically created by stdeb 0.8.5
