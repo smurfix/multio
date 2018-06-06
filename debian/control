@@ -1,0 +1,13 @@
+Source: multio
+Maintainer: Matthias Urlichs <matthias@urlichs.de>
+Section: python
+Priority: optional
+Build-Depends: dh-python, python3-setuptools, python3-all, debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/theelous3/multio
+
+Package: python3-multio
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: multio - an unified async library for curio and trio
+
